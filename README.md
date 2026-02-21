@@ -83,7 +83,7 @@ TrendSense/
 ## 👨‍💻 Author
 
 **Sajal Vijayvargiya**  
-[LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/sajal-vijay-6823b7295/)) | [GitHub](https://github.com/yourusername)
+[LinkedIn](https://www.linkedin.com/in/sajal-vijay-6823b7295/) | [GitHub](https://github.com/SAJALVIJAY19)
 
 ---
 
