@@ -15,9 +15,6 @@ An end-to-end machine learning system that forecasts stock market trends (UP/DOW
 ---
 
 ## 🎯 Overview
-<img width="596" height="558" alt="Screenshot 2026-02-21 192256" src="https://github.com/user-attachments/assets/b232071b-ebb8-408e-8ee9-26ccac669194" />
-
-<img width="1139" height="159" alt="Screenshot 2026-02-21 191716" src="https://github.com/user-attachments/assets/b2d1f6c3-d6fc-4e70-9728-1e947162e01a" />
 
 **TrendSense** combines technical analysis with NLP to predict stock movements:
 - 📈 **15+ Technical Indicators** (RSI, MACD, Bollinger Bands, etc.)
@@ -28,6 +25,9 @@ An end-to-end machine learning system that forecasts stock market trends (UP/DOW
 **Achievement**: **55-60% accuracy** on 3-class prediction vs 33% random baseline
 
 ---
+<img width="1354" height="601" alt="Screenshot 2026-02-21 190021" src="https://github.com/user-attachments/assets/c12c2ed1-1633-4408-959d-01ec2af9172d" />
+<img width="1354" height="600" alt="Screenshot 2026-02-21 190102" src="https://github.com/user-attachments/assets/95aadde6-de3c-4fe7-a2cc-27143c218e4e" />
+<img width="1365" height="595" alt="Screenshot 2026-02-21 190038" src="https://github.com/user-attachments/assets/2298ea26-80cc-494b-8873-ce37a70d456b" />
 
 ## 📊 Results
 
