@@ -43,7 +43,7 @@ An end-to-end machine learning system that forecasts stock market trends (UP/DOW
 
 ```bash
 # Install
-git clone https://github.com/yourusername/TrendSense.git
+git clone https://github.com/SAJALVIJAY19/TrendSense.git
 cd TrendSense
 pip install -r requirements.txt
 
