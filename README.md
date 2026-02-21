@@ -82,8 +82,8 @@ TrendSense/
 
 ## 👨‍💻 Author
 
-**Your Name**  
-[LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
+**Sajal Vijayvargiya**  
+[LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/sajal-vijay-6823b7295/)) | [GitHub](https://github.com/yourusername)
 
 ---
 
