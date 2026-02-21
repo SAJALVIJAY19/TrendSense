@@ -1,0 +1,150 @@
+{
+  "Logistic Regression": {
+    "accuracy": 0.3336,
+    "f1_score": 0.3267,
+    "precision": 0.3648,
+    "recall": 0.3336,
+    "use_scaled": true,
+    "report": "              precision    recall  f1-score   support\n\n        DOWN       0.34      0.47      0.40       398\n     NEUTRAL       0.25      0.34      0.29       318\n          UP       0.45      0.21      0.29       483\n\n    accuracy                           0.33      1199\n   macro avg       0.35      0.34      0.33      1199\nweighted avg       0.36      0.33      0.33      1199\n",
+    "confusion_matrix": [
+      [
+        189,
+        144,
+        65
+      ],
+      [
+        151,
+        108,
+        59
+      ],
+      [
+        208,
+        172,
+        103
+      ]
+    ]
+  },
+  "SVM": {
+    "accuracy": 0.3486,
+    "f1_score": 0.3378,
+    "precision": 0.3682,
+    "recall": 0.3486,
+    "use_scaled": true,
+    "report": "              precision    recall  f1-score   support\n\n        DOWN       0.34      0.54      0.42       398\n     NEUTRAL       0.29      0.27      0.28       318\n          UP       0.45      0.24      0.31       483\n\n    accuracy                           0.35      1199\n   macro avg       0.36      0.35      0.34      1199\nweighted avg       0.37      0.35      0.34      1199\n",
+    "confusion_matrix": [
+      [
+        216,
+        106,
+        76
+      ],
+      [
+        164,
+        87,
+        67
+      ],
+      [
+        259,
+        109,
+        115
+      ]
+    ]
+  },
+  "KNN": {
+    "accuracy": 0.3445,
+    "f1_score": 0.3402,
+    "precision": 0.3435,
+    "recall": 0.3445,
+    "use_scaled": true,
+    "report": "              precision    recall  f1-score   support\n\n        DOWN       0.32      0.41      0.36       398\n     NEUTRAL       0.27      0.19      0.23       318\n          UP       0.41      0.39      0.40       483\n\n    accuracy                           0.34      1199\n   macro avg       0.33      0.33      0.33      1199\nweighted avg       0.34      0.34      0.34      1199\n",
+    "confusion_matrix": [
+      [
+        163,
+        83,
+        152
+      ],
+      [
+        142,
+        62,
+        114
+      ],
+      [
+        211,
+        84,
+        188
+      ]
+    ]
+  },
+  "Random Forest": {
+    "accuracy": 0.347,
+    "f1_score": 0.3035,
+    "precision": 0.3786,
+    "recall": 0.347,
+    "use_scaled": false,
+    "report": "              precision    recall  f1-score   support\n\n        DOWN       0.34      0.71      0.46       398\n     NEUTRAL       0.29      0.22      0.25       318\n          UP       0.47      0.13      0.21       483\n\n    accuracy                           0.35      1199\n   macro avg       0.37      0.35      0.31      1199\nweighted avg       0.38      0.35      0.30      1199\n",
+    "confusion_matrix": [
+      [
+        282,
+        81,
+        35
+      ],
+      [
+        210,
+        69,
+        39
+      ],
+      [
+        327,
+        91,
+        65
+      ]
+    ]
+  },
+  "XGBoost": {
+    "accuracy": 0.3353,
+    "f1_score": 0.2852,
+    "precision": 0.3596,
+    "recall": 0.3353,
+    "use_scaled": false,
+    "report": "              precision    recall  f1-score   support\n\n        DOWN       0.34      0.73      0.46       398\n     NEUTRAL       0.23      0.14      0.17       318\n          UP       0.47      0.14      0.22       483\n\n    accuracy                           0.34      1199\n   macro avg       0.34      0.34      0.28      1199\nweighted avg       0.36      0.34      0.29      1199\n",
+    "confusion_matrix": [
+      [
+        291,
+        74,
+        33
+      ],
+      [
+        230,
+        43,
+        45
+      ],
+      [
+        342,
+        73,
+        68
+      ]
+    ]
+  },
+  "best_model": "KNN",
+  "feature_names": [
+    "RSI",
+    "MACD",
+    "MACD_Signal",
+    "MACD_Diff",
+    "BB_High",
+    "BB_Low",
+    "BB_Width",
+    "BB_Pct",
+    "EMA_9",
+    "EMA_21",
+    "EMA_Cross",
+    "ATR",
+    "OBV",
+    "Stoch_K",
+    "Stoch_D",
+    "ROC",
+    "Daily_Return",
+    "Price_Range",
+    "Close_to_Open",
+    "Sentiment"
+  ]
+}
