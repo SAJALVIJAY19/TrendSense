@@ -87,7 +87,7 @@ TrendSense/
 
 **Sajal Vijayvargiya**  
 [LinkedIn](https://www.linkedin.com/in/sajal-vijay-6823b7295/) | [GitHub](https://github.com/SAJALVIJAY19)
-
+github
 ---
 
 ⭐ **Star this repo if you found it useful!**
